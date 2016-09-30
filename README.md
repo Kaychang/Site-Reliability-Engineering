@@ -1,4 +1,4 @@
-# Site-Reliability-Engineering
+# 支持正版,暂停翻译
 How Google Runs Production Systems !
 
 Official Web Site: https://landing.google.com/sre/ :kissing:
